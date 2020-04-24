@@ -1,0 +1,2 @@
+# cim
+Community information management
